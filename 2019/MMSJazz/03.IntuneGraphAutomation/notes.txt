@@ -1,0 +1,5 @@
+https://login.microsoftonline.com/mvp24.onmicrosoft.com/adminconsent?client_id=d9064e55-dda9-4f13-beed-051378d66334&state=1234&redirect_uri=https://localhost
+
+https://www.spcnl.nl/retrieve-azure-key-vault-secrets-from-logic-apps-using-managed-identity/
+
+https://graph.microsoft.com/beta/deviceManagement/importedWindowsAutopilotDeviceIdentities
